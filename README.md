@@ -4,7 +4,7 @@ A real-time parking space detection system that uses computer vision and machine
 
 ## 📸 Project Showcase
 
-![Parking Space Detection](/carParkImg.png)(/output.png)
+![Parking Space Detection](/output.png)
 
 ## 🎯 Features
 
