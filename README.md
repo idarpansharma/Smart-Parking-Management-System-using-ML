@@ -57,7 +57,6 @@ pip install opencv-python cvzone numpy
 
 Run the parking space detection on video:
 ```bash
-cd ps
 python main.py
 ```
 
@@ -73,7 +72,6 @@ The system will:
 If this is your first time or you want to mark new parking spaces:
 
 ```bash
-cd ps
 python ParkingSpacePicker.py
 ```
 
